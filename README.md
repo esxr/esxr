@@ -1,6 +1,9 @@
 [![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavdhoolia&show_icons=true&theme=dark&count_private=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavdhoolia&show_icons=true&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Currently Working On
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=library-of-code&repo=knowledge&theme=dark" />
+</a>
 <!--
 **pd-escher/pd-escher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
