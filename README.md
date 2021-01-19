@@ -1,4 +1,4 @@
-[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavdhoolia&theme=synthwave&count_private=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavdhoolia&theme=synthwave&count_private=true&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **pd-escher/pd-escher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
