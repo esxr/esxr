@@ -1,4 +1,4 @@
-[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavdhoolia&show_icons=true&theme=dark&count_private=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
+[![Pranav's github stats](https://github-readme-stats.vercel.app/api?username=pranavdhoolia&show_icons=true&theme=tokyonight&count_private=true&hide=stars,prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 # Currently Working On
 <a href="https://github.com/anuraghazra/github-readme-stats">
