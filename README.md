@@ -1,1 +1,1 @@
-I will be a [spacefiller](https://playgameoflife.com/lexicon/spacefiller) 👾
+I will be a [spacefiller](https://upload.wikimedia.org/wikipedia/commons/a/a1/Spacefiller_animation.gif) 👾
